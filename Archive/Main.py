@@ -1,8 +1,5 @@
 import requests
-import BootyfulSoup
-import json
 from Champion import Champion
-from Window import Window
 
 location_in_file = 0
 wiki_data_file = "empty string"
@@ -51,7 +48,7 @@ class Main:
         print(challenge_info)
 #        print(champ_id)
 
-        wiki_data_file = BootyfulSoup.get_soup()
+        wiki_data_file = BootyfulSoup.get_webpage_html()
         self.crawl()
 
         i = 1

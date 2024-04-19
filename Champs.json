@@ -1,0 +1,1219 @@
+{
+"type": "champion",
+"data": { 
+"id:266": {
+"name":"Aatrox",
+"title":"the Darkin Blade",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 1
+}
+}
+,"id:84": {
+"name":"Akali",
+"title":"the Rogue Assassin",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.9,
+        "energy_regen" : 1.2,
+        "tenacity" : 1.2
+}
+}
+,"id:166": {
+"name":"Akshan",
+"title":"the Rogue Sentinel",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:12": {
+"name":"Alistar",
+"title":"the Minotaur",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05,
+        "healing" : 0.8
+}
+}
+,"id:32": {
+"name":"Amumu",
+"title":"the Sad Mummy",
+"aram":  {
+        "dmg_taken" : 1
+}
+}
+,"id:34": {
+"name":"Anivia",
+"title":"the Cryophoenix",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 1
+}
+}
+,"id:1": {
+"name":"Annie",
+"title":"the Dark Child",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05,
+        "shielding" : 0.9
+}
+}
+,"id:523": {
+"name":"Aphelios",
+"title":"the Weapon of the Faithful",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 0.95
+}
+}
+,"id:22": {
+"name":"Ashe",
+"title":"the Frost Archer",
+"aram":  {
+        "attack_speed" : 1.025,
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1
+}
+}
+,"id:268": {
+"name":"Azir",
+"title":"the Emperor of the Sands",
+"aram":  {
+        "ability_haste" : 20,
+        "attack_speed" : 1.025,
+        "dmg_dealt" : 1,
+        "dmg_taken" : 0.95
+}
+}
+,"id:432": {
+"name":"Bard",
+"title":"the Wandering Caretaker",
+"aram":  {
+        "dmg_dealt" : 1.15,
+        "dmg_taken" : 0.85,
+        "healing" : 1.2
+}
+}
+,"id:200": {
+"name":"Belveth",
+"title":"the Empress of the Void",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 1
+}
+}
+,"id:63": {
+"name":"Brand",
+"title":"the Burning Vengeance",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.1,
+        "ability_haste" : -10
+}
+}
+,"id:233": {
+"name":"Briar",
+"title":"the Restrained Hunger",
+"aram":  {
+        "dmg_dealt" : 1,
+        "healing" : 1.15
+}
+}
+,"id:51": {
+"name":"Caitlyn",
+"title":"the Sheriff of Piltover",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1.05
+}
+}
+,"id:164": {
+"name":"Camille",
+"title":"the Steel Shadow",
+"aram":  {
+        "ability_haste" : 10,
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95,
+        "healing" : 1.2,
+        "shielding" : 1.1
+}
+}
+,"id:31": {
+"name":"Chogath",
+"title":"the Terror of the Void",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1.1
+}
+}
+,"id:42": {
+"name":"Corki",
+"title":"the Daring Bombardier",
+"aram":  {
+        "dmg_taken" : 0.9,
+        "ability_haste" : 10
+}
+}
+,"id:122": {
+"name":"Darius",
+"title":"the Hand of Noxus",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 1
+}
+}
+,"id:131": {
+"name":"Diana",
+"title":"Scorn of the Moon",
+"aram":  {
+        "dmg_taken" : 0.95
+}
+}
+,"id:36": {
+"name":"DrMundo",
+"title":"the Madman of Zaun",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.05,
+        "healing" : 0.9
+}
+}
+,"id:119": {
+"name":"Draven",
+"title":"the Glorious Executioner",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:245": {
+"name":"Ekko",
+"title":"the Boy Who Shattered Time",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 1,
+        "tenacity" : 1.2
+}
+}
+,"id:60": {
+"name":"Elise",
+"title":"the Spider Queen",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.9,
+        "tenacity" : 1.2
+}
+}
+,"id:28": {
+"name":"Evelynn",
+"title":"Agony's Embrace",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.9,
+        "tenacity" : 1.2
+}
+}
+,"id:81": {
+"name":"Ezreal",
+"title":"the Prodigal Explorer",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1
+}
+}
+,"id:9": {
+"name":"Fiddlesticks",
+"title":"the Ancient Fear",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:114": {
+"name":"Fiora",
+"title":"the Grand Duelist",
+"aram":  {
+        "dmg_taken" : 0.95
+}
+}
+,"id:105": {
+"name":"Fizz",
+"title":"the Tidal Trickster",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95,
+        "tenacity" : 1.2
+}
+}
+,"id:3": {
+"name":"Galio",
+"title":"the Colossus",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.05
+}
+}
+,"id:86": {
+"name":"Garen",
+"title":"The Might of Demacia",
+"aram":  {
+        "dmg_taken" : 0.95
+}
+}
+,"id:150": {
+"name":"Gnar",
+"title":"the Missing Link",
+"aram":  {
+        "attack_speed" : 1.025,
+      	"dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:79": {
+"name":"Gragas",
+"title":"the Rabble Rouser",
+"aram":  {
+        "dmg_taken" : 0.95
+}
+}
+,"id:887": {
+"name":"Gwen",
+"title":"The Hallowed Seamstress",
+"aram":  {
+        "dmg_dealt" : 1
+}
+}
+,"id:120": {
+"name":"Hecarim",
+"title":"the Shadow of War",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.9,
+        "healing" : 1.2,
+        "ability_haste" : 10
+}
+}
+,"id:74": {
+"name":"Heimerdinger",
+"title":"the Revered Inventor",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.1
+}
+}
+,"id:910": {
+"name":"Hwei",
+"title":"the Visionary",
+"aram":  {
+        "ability_haste" : 20
+}
+}
+,"id:420": {
+"name":"Illaoi",
+"title":"the Kraken Priestess",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05,
+        "healing" : 0.8
+}
+}
+,"id:39": {
+"name":"Irelia",
+"title":"the Blade Dancer",
+"aram":  {
+        "ability_haste" : 20,
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1
+}
+}
+,"id:427": {
+"name":"Ivern",
+"title":"the Green Father",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "shielding" : 0.8
+}
+}
+,"id:40": {
+"name":"Janna",
+"title":"the Storm's Fury",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05,
+        "healing" : 0.90,
+        "shielding" : 0.95
+}
+}
+,"id:59": {
+"name":"JarvanIV",
+"title":"the Exemplar of Demacia",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 0.95
+}
+}
+,"id:24": {
+"name":"Jax",
+"title":"Grandmaster at Arms",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.97
+}
+}
+,"id:202": {
+"name":"Jhin",
+"title":"the Virtuoso",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.05
+}
+}
+,"id:222": {
+"name":"Jinx",
+"title":"the Loose Cannon",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.05
+}
+}
+,"id:897": {
+"name":"KSante",
+"title":"the Pride of Nazumah",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1
+}
+}
+,"id:145": {
+"name":"Kaisa",
+"title":"Daughter of the Void",
+"aram":  {
+        "attack_speed" : 1.025,
+        "dmg_dealt" : 1,
+        "dmg_taken" : 0.95
+}
+}
+,"id:429": {
+"name":"Kalista",
+"title":"the Spear of Vengeance",
+"aram":  {
+        "attack_speed" : 1.025,
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.9
+}
+}
+,"id:43": {
+"name":"Karma",
+"title":"the Enlightened One",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1
+}
+}
+,"id:30": {
+"name":"Karthus",
+"title":"the Deathsinger",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.05
+}
+}
+,"id:38": {
+"name":"Kassadin",
+"title":"the Void Walker",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 0.95
+}
+}
+,"id:55": {
+"name":"Katarina",
+"title":"the Sinister Blade",
+"aram":  {
+        "ability_haste" : 10,
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1,
+        "tenacity" : 1.2
+}
+}
+,"id:10": {
+"name":"Kayle",
+"title":"the Righteous",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.1
+}
+}
+,"id:141": {
+"name":"Kayn",
+"title":"the Shadow Reaper",
+"aram":  {
+        "dmg_dealt" : 1,
+        "healing" : 0.8,
+        "tenacity" : 1.2
+}
+}
+,"id:85": {
+"name":"Kennen",
+"title":"the Heart of the Tempest",
+"aram":  {
+      	"dmg_dealt" : 1.05,
+        "dmg_taken" : 1,
+        "energy_regen" : 1.2
+}
+}
+,"id:121": {
+"name":"Khazix",
+"title":"the Voidreaver",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.9,
+        "healing" : 1.2,
+        "tenacity" : 1.2
+}
+}
+,"id:203": {
+"name":"Kindred",
+"title":"The Eternal Hunters",
+"aram":  {
+        "attack_speed" : 1.025,
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.9
+}
+}
+,"id:240": {
+"name":"Kled",
+"title":"the Cantankerous Cavalier",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 1
+}
+}
+,"id:240.1": {
+"name":"Kled",
+"title":"the Cantankerous Cavaliers",
+"aram":  {
+        "dmg_dealt" : 1.05
+}
+}
+,"id:96": {
+"name":"KogMaw",
+"title":"the Mouth of the Abyss",
+"aram":  {
+        "dmg_dealt" : 0.88,
+        "dmg_taken" : 1.1
+}
+}
+,"id:7": {
+"name":"Leblanc",
+"title":"the Deceiver",
+"aram":  {
+        "ability_haste" : 20,
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.9,
+        "tenacity" : 1.2
+}
+}
+,"id:64": {
+"name":"LeeSin",
+"title":"the Blind Monk",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95,
+        "healing" : 1.2,
+        "shielding" : 1.2,
+        "energy_regen" : 1.2
+}
+}
+,"id:89": {
+"name":"Leona",
+"title":"the Radiant Dawn",
+"aram":  {
+        "dmg_dealt" : 0.9
+}
+}
+,"id:876": {
+"name":"Lillia",
+"title":"the Bashful Bloom",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:127": {
+"name":"Lissandra",
+"title":"the Ice Witch",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:236": {
+"name":"Lucian",
+"title":"the Purifier",
+"aram":  {
+        "ability_haste" : 10,
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95,
+        "tenacity" : 1.2
+}
+}
+,"id:117": {
+"name":"Lulu",
+"title":"the Fae Sorceress",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "shielding" : 1.05
+}
+}
+,"id:99": {
+"name":"Lux",
+"title":"the Lady of Luminosity",
+"aram":  {
+        "dmg_dealt" : 0.85,
+        "dmg_taken" : 1.1,
+        "shielding" : 0.8
+}
+}
+,"id:90": {
+"name":"Malzahar",
+"title":"the Prophet of the Void",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.1
+}
+}
+,"id:57": {
+"name":"Maokai",
+"title":"the Twisted Treant",
+"aram":  {
+        "dmg_dealt" : 0.8,
+        "dmg_taken" : 1.1,
+        "healing" : 0.8
+}
+}
+,"id:11": {
+"name":"MasterYi",
+"title":"the Wuju Bladesman",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 0.97
+}
+}
+,"id:902": {
+"name":"Milio",
+"title":"The Gentle Flame",
+"aram":  {
+        "healing" : 0.95,
+        "shielding" : 0.9
+}
+}
+,"id:21": {
+"name":"MissFortune",
+"title":"the Bounty Hunter",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.15
+}
+}
+,"id:82": {
+"name":"Mordekaiser",
+"title":"the Iron Revenant",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:25": {
+"name":"Morgana",
+"title":"the Fallen",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:950": {
+"name":"Naafiri",
+"title":"the Hound of a Hundred Bites",
+"aram":  {
+        "ability_haste" : 10,
+        "dmg_dealt" : 1.05
+}
+}
+,"id:267": {
+"name":"Nami",
+"title":"the Tidecaller",
+"aram":  {
+        "dmg_taken" : 1.05,
+        "healing" : 0.95
+}
+}
+,"id:75": {
+"name":"Nasus",
+"title":"the Curator of the Sands",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.05
+}
+}
+,"id:111": {
+"name":"Nautilus",
+"title":"the Titan of the Depths",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:76": {
+"name":"Nidalee",
+"title":"the Bestial Huntress",
+"aram":  {
+        "dmg_dealt" : 1.1
+}
+}
+,"id:895": {
+"name":"Nilah",
+"title":"the Joy Unbound",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "healing" : 1
+}
+}
+,"id:56": {
+"name":"Nocturne",
+"title":"the Eternal Nightmare",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.85,
+        "healing" : 1.2
+}
+}
+,"id:20": {
+"name":"Nunu",
+"title":"the Boy and His Yeti",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.9,
+        "healing" : 1.1,
+        "shielding" : 1.2,
+        "tenacity" : 1.2
+}
+}
+,"id:2": {
+"name":"Olaf",
+"title":"the Berserker",
+"aram":  {
+        "dmg_dealt" : 1
+}
+}
+,"id:516": {
+"name":"Ornn",
+"title":"The Fire below the Mountain",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.05
+}
+}
+,"id:80": {
+"name":"Pantheon",
+"title":"the Unbreakable Spear",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 1
+}
+}
+,"id:555": {
+"name":"Pyke",
+"title":"the Bloodharbor Ripper",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.95,
+        "tenacity" : 1.2
+}
+}
+,"id:246": {
+"name":"Qiyana",
+"title":"Empress of the Elements",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.9,
+        "tenacity" : 1.2
+}
+}
+,"id:133": {
+"name":"Quinn",
+"title":"Demacia's Wings",
+"aram":  {
+        "attack_speed" : 1.025,
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.9,
+        "tenacity" : 1.2
+}
+}
+,"id:33": {
+"name":"Rammus",
+"title":"the Armordillo",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1
+}
+}
+,"id:421": {
+"name":"RekSai",
+"title":"the Void Burrower",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.9
+}
+}
+,"id:526": {
+"name":"Rell",
+"title":"the Iron Maiden",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1,
+        "healing" : 0.9,
+        "shielding" : 0.9
+}
+}
+,"id:888": {
+"name":"Renata",
+"title":"the Chem-Baroness",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05,
+        "shielding" : 0.8
+}
+}
+,"id:58": {
+"name":"Renekton",
+"title":"the Butcher of the Sands",
+"aram":  {
+        "dmg_dealt" : 1
+}
+}
+,"id:107": {
+"name":"Rengar",
+"title":"the Pridestalker",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 0.92,
+        "tenacity" : 1.2
+}
+}
+,"id:92": {
+"name":"Riven",
+"title":"the Exile",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.92,
+        "shielding" : 1
+}
+}
+,"id:68": {
+"name":"Rumble",
+"title":"the Mechanized Menace",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1
+}
+}
+,"id:13": {
+"name":"Ryze",
+"title":"the Rune Mage",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:360": {
+"name":"Samira",
+"title":"the Desert Rose",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:113": {
+"name":"Sejuani",
+"title":"Fury of the North",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.92
+}
+}
+,"id:235": {
+"name":"Senna",
+"title":"the Redeemer",
+"aram":  {
+        "dmg_dealt" : 0.94,
+        "dmg_taken" : 1.05
+}
+}
+,"id:147": {
+"name":"Seraphine",
+"title":"the Starry-Eyed Songstress",
+"aram":  {
+        "ability_haste" : -20,
+        "dmg_dealt" : 0.85,
+        "dmg_taken" : 1.2,
+        "healing" : 0.8,
+        "shielding" : 0.8
+}
+}
+,"id:875": {
+"name":"Sett",
+"title":"the Boss",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.1,
+        "healing" : 0.9,
+        "shielding" : 0.9
+}
+}
+,"id:35": {
+"name":"Shaco",
+"title":"the Demon Jester",
+"aram":  {
+        "dmg_dealt" : 1.05
+}
+}
+,"id:98": {
+"name":"Shen",
+"title":"the Eye of Twilight",
+"aram":  {
+      	"dmg_taken" : 1.05
+}
+}
+,"id:102": {
+"name":"Shyvana",
+"title":"the Half-Dragon",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 0.95
+}
+}
+,"id:27": {
+"name":"Singed",
+"title":"the Mad Chemist",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.05
+}
+}
+,"id:14": {
+"name":"Sion",
+"title":"The Undead Juggernaut",
+"aram":  {
+        "ability_haste" : -20,
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.1,
+        "shielding" : 0.8,
+        "tenacity" : 0.8
+}
+}
+,"id:15": {
+"name":"Sivir",
+"title":"the Battle Mistress",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.08
+}
+}
+,"id:37": {
+"name":"Sona",
+"title":"Maven of the Strings",
+"aram":  {
+        "ability_haste" : -20,
+        "dmg_dealt" : 1,
+        "dmg_taken" : 1.1,
+        "healing" : 0.85,
+        "shielding" : 0.85
+}
+}
+,"id:50": {
+"name":"Swain",
+"title":"the Noxian Grand General",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.15,
+        "healing" : 0.8
+}
+}
+,"id:517": {
+"name":"Sylas",
+"title":"the Unshackled",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 1
+}
+}
+,"id:134": {
+"name":"Syndra",
+"title":"the Dark Sovereign",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "ability_haste" : 15
+}
+}
+,"id:223": {
+"name":"TahmKench",
+"title":"The River King",
+"aram":  {
+        "dmg_taken" : 1
+}
+}
+,"id:163": {
+"name":"Taliyah",
+"title":"the Stoneweaver",
+"aram":  {
+        "dmg_dealt" : 1
+}
+}
+,"id:91": {
+"name":"Talon",
+"title":"the Blade's Shadow",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95,
+        "tenacity" : 1.2
+}
+}
+,"id:44": {
+"name":"Taric",
+"title":"the Shield of Valoran",
+"aram":  {
+        "dmg_taken" : 1.1
+}
+}
+,"id:17": {
+"name":"Teemo",
+"title":"the Swift Scout",
+"aram":  {
+        "ability_haste" : -20,
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.1
+}
+}
+,"id:18": {
+"name":"Tristana",
+"title":"the Yordle Gunner",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:48": {
+"name":"Trundle",
+"title":"the Troll King",
+"aram":  {
+        "dmg_taken" : 1.05,
+        "healing" : 1
+}
+}
+,"id:23": {
+"name":"Tryndamere",
+"title":"the Barbarian King",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.9
+}
+}
+,"id:29": {
+"name":"Twitch",
+"title":"the Plague Rat",
+"aram":  {
+        "dmg_dealt" : 1,
+        "dmg_taken" : 0.95
+}
+}
+,"id:77": {
+"name":"Udyr",
+"title":"the Spirit Walker",
+"aram":  {
+        "dmg_dealt" : 1,
+        "tenacity" : 1.2
+}
+}
+,"id:6": {
+"name":"Urgot",
+"title":"the Dreadnought",
+"aram":  {
+        "dmg_taken" : 1.05
+}
+}
+,"id:110": {
+"name":"Varus",
+"title":"the Arrow of Retribution",
+"aram":  {
+        "dmg_dealt" : 0.95
+}
+}
+,"id:67": {
+"name":"Vayne",
+"title":"the Night Hunter",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:45": {
+"name":"Veigar",
+"title":"the Tiny Master of Evil",
+"aram":  {
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.1
+}
+}
+,"id:161": {
+"name":"Velkoz",
+"title":"the Eye of the Void",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:711": {
+"name":"Vex",
+"title":"the Gloomist",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1
+}
+}
+,"id:254": {
+"name":"Vi",
+"title":"the Piltover Enforcer",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:234": {
+"name":"Viego",
+"title":"The Ruined King",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:112": {
+"name":"Viktor",
+"title":"the Machine Herald",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1.05
+}
+}
+,"id:8": {
+"name":"Vladimir",
+"title":"the Crimson Reaper",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "healing" : 0.9
+}
+}
+,"id:19": {
+"name":"Warwick",
+"title":"the Uncaged Wrath of Zaun",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95,
+        "healing" : 1.05
+}
+}
+,"id:498": {
+"name":"Xayah",
+"title":"the Rebel",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 1
+}
+}
+,"id:101": {
+"name":"Xerath",
+"title":"the Magus Ascendant",
+"aram":  {
+        "dmg_dealt" : 0.95,
+        "dmg_taken" : 1
+}
+}
+,"id:5": {
+"name":"XinZhao",
+"title":"the Seneschal of Demacia",
+"aram":  {
+        "dmg_dealt" : 0.95
+}
+}
+,"id:777": {
+"name":"Yone",
+"title":"the Unforgotten",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.97
+}
+}
+,"id:350": {
+"name":"Yuumi",
+"title":"the Magical Cat",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "healing" : 1.1
+}
+}
+,"id:154": {
+"name":"Zac",
+"title":"the Secret Weapon",
+"aram":  {
+        "dmg_taken" : 0.96
+}
+}
+,"id:238": {
+"name":"Zed",
+"title":"the Master of Shadows",
+"aram":  {
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95,
+        "energy_regen" : 1.2,
+        "tenacity" : 1.2
+}
+}
+,"id:221": {
+"name":"Zeri",
+"title":"The Spark of Zaun",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.9
+}
+}
+,"id:115": {
+"name":"Ziggs",
+"title":"the Hexplosives Expert",
+"aram":  {
+        "ability_haste" : -20,
+        "dmg_dealt" : 0.9,
+        "dmg_taken" : 1.2
+}
+}
+,"id:26": {
+"name":"Zilean",
+"title":"the Chronokeeper",
+"aram":  {
+        "ability_haste" : 10,
+        "dmg_dealt" : 1.05,
+        "dmg_taken" : 0.95
+}
+}
+,"id:142": {
+"name":"Zoe",
+"title":"the Aspect of Twilight",
+"aram":  {
+        "dmg_dealt" : 1.1,
+        "dmg_taken" : 0.95
+}
+}
+
+}
+}
