@@ -29,7 +29,6 @@ def crawl():
     global wiki_data_file, location_in_file
     get_webpage_html()
     try:
-        # the while in question
         while find('["id"]'):
             try:
                 parse_champ_data()
@@ -45,7 +44,7 @@ def crawl():
         print(champ_array)
         for val in champ_array:
             print(val.str())
-    # convert_data_to_json()
+    convert_data_to_json()
     if Control.TEST:
         x = champ_array
     return champ_array
@@ -117,7 +116,7 @@ def find(string_target):
         print(string_target)
     return False
 
-# def read_json():
+# def read_json(): will read the json file into mem
 
 
 # turn the data scraped from the wiki into a json to be easily processed and packaged
@@ -131,11 +130,6 @@ def convert_data_to_json():
     json_data_string = json_data_string.removesuffix(',')
     json_data_string = json_data_string + '\n}'
     json_data_string = json_data_string + '\n}'
-
-    # with open('Champs.json', 'w') as f:
-    #     print(json_data_string, file=f)
-
-    #print(json_data_string)
 
 def get_champion_array():
     x = champ_array

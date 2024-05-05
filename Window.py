@@ -15,6 +15,7 @@ image_field = None
 
 # TODO figure out how to trigger an event when the window size is changed
 
+# set up the window
 def set_up_root():
     global root, init_width, init_height
 
@@ -40,9 +41,10 @@ def set_up_root():
     root.geometry("{}x{}+{}+{}".format(init_width, init_height,
                                        screen_width - (screen_width // 5), screen_height // 10))
 
+# set up the things in the window
 def set_up_window():
     global root, init_width, init_height, game_button, fetch_button, image_field, text_field
-    baby_image = Image.open("C:\\Users\\johnn\\PycharmProjects\\RiotInterface\\Josh_baby.gif")
+    baby_image = Image.open("C:\\Users\\johnn\\PycharmProjects\\RiotInterface\\cute.gif")
     baby_image = baby_image.resize((init_width, init_height // 2))
     test = ImageTk.PhotoImage(baby_image)
     image_field = tkinter.Label(image=test)
@@ -64,7 +66,7 @@ def set_up_window():
 
 
 
-
+# trigger the api call when the user presses the button
 def game_button_pressed():
     global text_field
     result = Control.call_api()
@@ -72,6 +74,7 @@ def game_button_pressed():
     if Control.TEST:
         print("Button Pressed")
 
+# trigger the wiki crawl when the user presses the button
 def fetch_data():
     b = Control.TEST
     Control.TEST = True
@@ -79,6 +82,7 @@ def fetch_data():
     Loader.crawl()
     Control.TEST = b
 
+# trigger after each step of the event loop
 def step_event():
     global root, game_button, fetch_button, image_field, text_field
 
@@ -86,12 +90,13 @@ def step_event():
 
     root.after(1, step_event)
 
-
+# start the event loop
 def run():
     global root
     root.after(1, step_event)
     root.mainloop()
 
+# main
 def main():
     Loader.crawl()
     set_up_root()
